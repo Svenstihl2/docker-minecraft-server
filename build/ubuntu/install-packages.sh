@@ -10,6 +10,7 @@ DEBIAN_FRONTEND=noninteractive \
 apt-get install -y \
   imagemagick \
   file \
+  bash \
   gosu \
   sudo \
   net-tools \
